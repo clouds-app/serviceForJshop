@@ -31,3 +31,9 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+Jshop接口离线文档
+https://www.jihainet.com/Jshop_api.html
+
+开发文档地址：
+
+https://www.kancloud.cn/jihainet/jshop_manual
